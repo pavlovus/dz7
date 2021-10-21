@@ -1,0 +1,53 @@
+.circle-big {
+  background-color: cornflowerblue;
+  height: 100px;
+  width: 100px;
+  border-radius: 50px;
+  display: inline-block;
+  position: relative;
+  margin-left: 200px;
+  box-shadow: 0 0 15px cornflowerblue;
+  margin-bottom: 1000px;
+}
+.circle-big-2 {
+  position: fixed;
+  margin-left: 700px;
+}
+.circle-medium {
+  height: 25px;
+  width: 25px;
+  border-radius: 12.5px;
+  position: absolute;
+}
+.circle-medium-1 {
+  background-color: pink;
+  top: 50px;
+  left: -30px;
+  box-shadow: 0 0 15px pink;
+}
+.circle-medium-2 {
+  background-color: blueviolet;
+  right: -35px;
+  box-shadow: 0 0 15px blueviolet;
+}
+.circle-medium-3 {
+  background-color: red;
+  bottom: -25px;
+  right: 20px;
+  box-shadow: 0 0 15px red;
+}
+.circle-small {
+  background-color: blue;
+  position: absolute;
+  height: 10px;
+  width: 10px;
+  border-radius: 5px;
+  box-shadow: 0 0 15px blue;
+}
+.circle-small-1 {
+  bottom: -25px;
+}
+.circle-small-2 {
+  right: -15px;
+  top: 10px;
+}
